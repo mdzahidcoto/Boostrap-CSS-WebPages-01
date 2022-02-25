@@ -1,3 +1,34 @@
 div.card-margin {
     margin-top: 20px;
 }
+.col-6{
+    text-align: justify;
+}
+.card {
+    margin: 20px;
+    border: none;
+    box-shadow: 1px 2.5px 5px rgb(218, 213, 213);
+}
+.card-footer {
+    border-top: none;
+}
+.d-flex {
+    margin-top: 30px;
+}
+.border-cat {
+    border: 2px solid gray;
+    border-radius: 10px 0px 0px 0px;
+    padding: 10px;
+    margin: 20px;
+}
+.bg-carousel-2 {
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.bg-middle {
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
