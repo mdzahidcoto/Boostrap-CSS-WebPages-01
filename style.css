@@ -32,3 +32,8 @@ div.card-margin {
     background-position: right;
     background-size: contain;
 }
+div.footer h3{
+    text-align: center;
+    color: gray;
+    font-size: .7em;
+}
